@@ -10,15 +10,15 @@ This repository contains the resources needed for the second sprint of NodeJS. I
 
 In this month, I learned about the basics relational and non-relational databases which in this case were MySQL and MongoDB. I also learned how to set them up. The folders under this month are:
 
-- [week1&2](./week1&2)
-- [week3](./week3)
-- [week4](./week4)
+- [week1&2](./month2/week1&2)
+- [week3](./month2/week3)
+- [week4](./month2/week4)
 
 ## Month 3
 
 During this month we dealt with all concepts concerning authentication and authorisation. The folders involved in this month's topics are:
 
-- [week1](./week1)
-- [week2](./week2)
-- [week3](./week3)
-- [week4](./week4)
+- [week1](./month3/week1)
+- [week2](./month3/week2)
+- [week3](./month3/week3)
+- [week4](./month3/week4)
