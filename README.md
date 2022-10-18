@@ -8,7 +8,7 @@ This repository contains the resources needed for the second sprint of NodeJS. I
 
 ## Month 2
 
-In this month, I learned about the basics relational and non-relational databases which in this case were MySQL and MongoDB. I also learned how to set them up. The folders under this month are:
+In this month, I learned about the basics relational and non-relational databases which in this case were MySQL and MongoDB, and how to use them in an express application through the use of Object Relational Models and Object Document Models. I also learned how to set them up. The folders under this month are:
 
 - [week1&2](./month2/week1&2)
 - [week3](./month2/week3)
